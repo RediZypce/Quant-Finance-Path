@@ -7,7 +7,7 @@ This repository is my personal roadmap and collection of projects in **quantitat
 
 I created this space to organize resources, document hands-on projects, and explore advanced topics in the quant space. If you're someone interested in finance, machine learning, or building trading models – I hope you find something useful here!  
 
----
+
 
 ## 📂 Repo Structure  
 
@@ -38,7 +38,7 @@ Quantitative-Finance-Path/
 └── README.md                         # This file
 
 ```
----
+
 
 ## What's Inside?  
 - **Resources** – Books, papers, and cheat sheets including the math and strategies behind finance and investing.  
@@ -46,19 +46,19 @@ Quantitative-Finance-Path/
 - **Advanced Trading Algorithms** – Explore algorithmic trading strategies, market-making models, and backtesting systems.  
 - **Risk Management** – Value at risk (VaR), credit risk modeling, and liquidity risk assessments.  
 - **AI for Finance** – Understand how AI can be applied to forecasting, asset pricing, and time series analysis. 
----
+
 
 ## How to Use This Repo  
 - **Beginners** – Start with the `01_QuantFundamentals` section to build a solid understanding of core concepts.  
 - **Advanced Users** – Jump to `02_QuantProjects` to explore portfolio analysis, risk management, and machine learning models in finance. In addition, the section `04_AdvancedTopics` includes advanced algorithmic trading strategies.
 - **AI/ML in Finance** – The `MachineLearningInFinance` and `DeepLearningInFinance`  folder is for those interested in applying AI techniques to trading, pricing, and forecasting.  
 
----
+
 
 ## Why I Built This Repo  
 This repo helps me stay organized while learning, and I hope it can serve as a valuable resource for others interested in the field.  
 
----
+
 
 ## Want to Collaborate?  
 I'm open to collaboration! If you have ideas for new projects or resources, feel free to fork the repo, open an issue, or submit a pull request.  
